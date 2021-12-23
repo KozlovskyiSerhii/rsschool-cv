@@ -11,10 +11,10 @@
 In 2012 he graduated from Lviv Polytechnic National University. I work in the pharmaceutical industry. Programming is my hobby, in the future I'm going  to change the glaze. 
 
 
-***My personal qualities:***
-•	High responsibility and result orientation for own work.
-•	Good communication skills. Analytical thinking and investigation skills.
-•	Team player, hard-worker.
+### My personal qualities:
+*	High responsibility and result orientation for own work.
+*	Good communication skills. Analytical thinking and investigation skills.
+*	Team player, hard-worker.
 
 **Skills** 
 1. HTML
@@ -24,15 +24,16 @@ In 2012 he graduated from Lviv Polytechnic National University. I work in the ph
 
 
 ## Code example: 
-``` Function calcSumm(a, b) {
+```
+Function calcSumm(a, b) {
    let result = 1;
    for (let i = 0; i < b; i++) {
       result *= a
    }
    return result;
 }
-console.log(calcSumm(2, 8)); ```
-
+console.log(calcSumm(2, 8));
+```
 
 * Courses:
    + Prometheus: CS50  "Вебпрограмування з Python та JavaScript CS50"
