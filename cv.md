@@ -1,6 +1,5 @@
-# FirstRepository
-## Kozlovskyi Serhii
-### Junior Frontend Developer
+# Kozlovskyi Serhii
+## Junior Frontend Developer
 ***********
 ## Contact information:
 * Name Kozlovskyi Serhii
