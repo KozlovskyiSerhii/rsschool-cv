@@ -7,7 +7,7 @@
 * Phone Number +380936453839
 * Email kozlovskijserhij@gmail.com
 ************
-##About me
+## About me
 In 2012 he graduated from Lviv Polytechnic National University. I work in the pharmaceutical industry. Programming is my hobby, in the future I'm going  to change the glaze. 
 ============
 ***My personal qualities:***
