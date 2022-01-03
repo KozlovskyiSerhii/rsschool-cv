@@ -1,0 +1,100 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.tilo{
+   margin: 0px 490px 0px 490px;
+}
+.header{
+   margin: 0px 0px 20px -30px;
+   display: flex;
+   justify-content:flex-start;
+   font-family: serif;
+   font-size: 24px;
+}
+.header ul {
+   list-style: none;
+   display: flex;
+   flex-direction: row;
+   width: fit-content;
+   padding: 0;
+}
+.container{
+   margin: 0px 0px 30px 0px;
+}
+.li__header{
+   color: rgb(201, 12, 12);
+   margin: 20px 5px 20px 5px;
+}
+.li__header:hover {
+   background-color: rgb(124, 202, 72);
+}
+.box__info{
+   width: 70%;
+}
+.box__row{
+   display: flex;
+   flex-direction: row;
+}
+.box__foto{
+   margin: 20px 20px 20px 20px;
+   width:40%;
+   height: 100px;
+}
+.foto{
+   width: 50%;
+   height: 300px;
+}
+.box__name{
+   font-family: serif;
+   font-size: 36px;
+}
+.box__title{
+   margin: 20px 0px 20px 0px;
+   font-family: serif;
+   font-size: 28px;
+}
+.myinfo__title{
+   line-height: 1.5;
+   padding: 5px 5px 5px 5px;
+   margin: 40px 0px 0px 0px;
+   font-family: serif;
+   line-height: 1.5;
+   font-size: 28px;
+}
+.myinfo__list{
+   margin: 20px 0px 0px 0px;
+   font-family: serif;
+   font-size: 24px;
+}
+.myinfo__list li{
+   margin: 5px 5px 5px 5px;
+}
+.about{
+
+}
+.About_me{
+   line-height: 1.5;
+   font-size: 18px;
+}
+.MyPers{
+   line-height: 1.5;
+   font-size: 18px;
+}
+.skill{
+   line-height: 1.5;
+   font-size: 18px; 
+}
+h2{
+   text-align: start ;
+   line-height: 1.5;
+   margin: 0px 0px 10px -20px;
+}
+h3{
+   text-align: start ;
+   line-height: 1.5;
+   margin: 10px 0px 10px -20px;  
+}
+.code{
+   line-height: 2;
+}
